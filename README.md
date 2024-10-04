@@ -6,6 +6,4 @@
 ###### TITULO 6
 
 * SUBTITULO 1
-** SUBTITULO 2
-*** BULLET
-  
+
